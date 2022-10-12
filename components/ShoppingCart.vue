@@ -1,13 +1,13 @@
 <template>
     <div>
-        <div class="offcanvas offcanvas-top"
+        <div class="offcanvas offcanvas-end"
  tabindex="-1" 
- id="offcanvasTop" 
- aria-labelledby="offcanvasTopLabel"
+ id="offcanvasRight" 
+ aria-labelledby="offcanvasRightLabel"
  >
   <div class="offcanvas-header">
     <h5 class="offcanvas-title" 
-    id="offcanvasTopLabel">Shopping Cart - ${{totalSum}}</h5>
+    id="offcanvasRightLabel">Shopping Cart - ${{totalSum}}</h5>
     <button 
     type="button" 
     class="btn-close text- reset"

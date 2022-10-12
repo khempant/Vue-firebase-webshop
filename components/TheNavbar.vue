@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
             <div class="container-fluid">
                 <NuxtLink to="/" class="navbar-brand">
-                    online-optic
+                    Camera Shop
                 </NuxtLink>
                 <button
                     class="navbar-toggler"
