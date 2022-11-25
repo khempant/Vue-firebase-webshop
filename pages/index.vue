@@ -21,6 +21,7 @@
                             class="btn btn-outline-primary">
                                 Add to cart
                             </button>
+                            
                         </div>
                     </div>
                 </div>
@@ -174,7 +175,9 @@ export default {
                     ...product,
                     amount: 1,
                 })
+                  
             }
+           
     },
   }
 }
